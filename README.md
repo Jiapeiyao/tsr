@@ -1,0 +1,2 @@
+# tsr
+TypeScript Runner CLI
